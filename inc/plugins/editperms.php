@@ -38,7 +38,7 @@ function editperms_info()
 		"website"			=> "http://galaxiesrealm.com/index.php",
 		"author"			=> "Starpaul20",
 		"authorsite"		=> "http://galaxiesrealm.com/index.php",
-		"version"			=> "1.0.1",
+		"version"			=> "1.0.2",
 		"guid"				=> "809da2afc38a36394973128975349daf",
 		"compatibility"		=> "16*"
 	);
@@ -191,7 +191,7 @@ function editperms_edit_page()
 function editperms_usergroup_permission($above)
 {
 	global $mybb, $lang, $form;
-	$lang->load("editperms");
+	$lang->load("editperms", true);
 
 	if($above['title'] == $lang->editing_deleting_options && $lang->editing_deleting_options)
 	{
