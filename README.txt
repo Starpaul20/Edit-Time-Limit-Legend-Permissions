@@ -1,3 +1,5 @@
+DEPRECATED! Edit Time Limit has been added in MyBB 1.8. Legend Permissions is now a seperate plugin for MyBB 1.8.
+
 ## INFORMATION ##
 
 Edit Time Limit/Legend Permissions (1.0.2) for MyBB 1.6
