@@ -1,9 +1,9 @@
-1.0.2
+1.0.2 (October 23rd, 2013)
 - Bug: Fixed language error for 1.6.11
 
-1.0.1
+1.0.1 (November 26th, 2011)
 - Updated plugin with 1.6.5 plugin system updates
 - Optimization and general plugin updating
 
-1.0
+1.0 (January 28th, 2011)
 - Initial release
